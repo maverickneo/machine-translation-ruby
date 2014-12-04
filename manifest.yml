@@ -1,0 +1,6 @@
+applications:
+- services:
+  - mt-service
+  name: mt-ruby
+  path: .
+  memory: 256M
