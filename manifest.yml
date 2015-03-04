@@ -1,6 +1,6 @@
 ---
 declared-services:
-- mt-service:
+  mt-service:
     label: machine_translation
     plan: machine_translation_free_plan
 applications:
